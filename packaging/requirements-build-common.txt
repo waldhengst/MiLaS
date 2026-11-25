@@ -1,0 +1,4 @@
+# Packaging-only tools. Application runtime dependencies remain in uv.lock.
+Nuitka==4.1.1
+ordered-set==4.1.0
+zstandard==0.25.0
